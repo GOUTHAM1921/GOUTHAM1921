@@ -2,7 +2,7 @@
 
 - I currently working as a Tableau Developer
 - Looking forward to become as a Data Scientist
-- 🌱 I’m currently into BIGDATA and ML workloads on Azure 
+- 🌱 I’m currently into ML workloads on Azure 
 
 
 <!---
