@@ -1,6 +1,5 @@
 # Hi, I’m GOUTHAM👋
 
-- I currently working as a Tableau Developer
 - Looking forward to become as a Data Scientist
 - 🌱 I’m currently into ML workloads on Azure 
 
